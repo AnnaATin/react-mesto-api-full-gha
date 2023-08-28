@@ -1,0 +1,9 @@
+.elements__grid-item {
+  display: grid;
+  max-width: 100%;
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+  grid-template-rows: 282px 1fr;
+  position: relative;
+}

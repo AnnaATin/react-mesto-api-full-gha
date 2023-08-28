@@ -1,0 +1,9 @@
+.elements__grid-text-area {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 21px;
+  overflow: hidden;
+  justify-content: space-between;
+  min-height: 79px;
+}
