@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.116.248
+IP 158.160.116.248
 
 Frontend https://annatin.nomoredomainsicu.ru
 
