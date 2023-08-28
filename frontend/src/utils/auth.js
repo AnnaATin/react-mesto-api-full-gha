@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:4000";
+export const BASE_URL = "https://api.annatin.nomoredomainsicu.ru";
 
 const handleResponse = (response) =>
   response.ok ? response.json() : Promise.reject(`Error: ${response.status}`);

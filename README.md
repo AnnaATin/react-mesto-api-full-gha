@@ -9,8 +9,8 @@
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 158.160.116.248
 
-Frontend https://...
+Frontend https://annatin.nomoredomainsicu.ru
 
-Backend https://...
+Backend https://api.annatin.nomoredomainsicu.ru

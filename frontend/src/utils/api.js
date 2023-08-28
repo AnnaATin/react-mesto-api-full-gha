@@ -78,7 +78,7 @@ class Api {
 }
 
 const api = new Api({
-  baseUrl: "http://localhost:4000",
+  baseUrl: "https://api.annatin.nomoredomainsicu.ru",
   headers: {
    // authorization: "6292d62a-29b0-4b08-9705-e346ec49902c",
     "Accept": "application/json",
